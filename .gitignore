@@ -1,7 +1,6 @@
 *.o
 Debug/
 Release/
-*.filters
 *.user
 CMakeFiles/
 CMakeCache.txt
@@ -18,10 +17,10 @@ doc/xml/
 *.opensdf
 *.pdb
 *.sdf
-*.sln
 *.suo
 *.tlog
 *.unsuccessfulbuild
-*.vcxproj
 build/
 
+.vs/
+*.cmake
